@@ -1,4 +1,4 @@
-package com.anastasiia.constructor.task1;
+package com.anastasiia.constructor;
 
 public class Book {
     public String title;
