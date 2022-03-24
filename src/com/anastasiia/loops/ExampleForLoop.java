@@ -15,7 +15,7 @@ public class ExampleForLoop {
 
        /* for (int i = array.length-1; i >=0 ; i--) {
             System.out.println(array[i]);
-        }*/
+      \  }*/
 
        /* for ( int i=0, k = array.length-1;i< array.length; i++,k--) {
             System.out.println(array[i] + " " + array[k]);
